@@ -104,10 +104,3 @@ The Tuition Management System is a comprehensive web application developed to en
 - The system is responsive up to a view port resolution of 1280x800 from 1920x1080.
 - Configure SMTP details from using all complete functionality.
 
-## Developer 👨‍💻
-
-- Developed by: Azim Baji Krishna
-- Contact: azimbaji19@gmail.com
-- Feedback and Support 💌: Feel free to reach out for feedback or support. Your insights contribute to the system's improvement.
-
-Feel free to adapt and use this Tuition Management System to suit your needs! 😃
